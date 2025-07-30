@@ -5,3 +5,9 @@ joblib
 pandas
 python-multipart
 requests
+os 
+ee
+json
+typing
+datetime
+pydantic
