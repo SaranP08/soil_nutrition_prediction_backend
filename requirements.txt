@@ -4,3 +4,4 @@ scikit-learn
 joblib
 pandas
 python-multipart
+requests
